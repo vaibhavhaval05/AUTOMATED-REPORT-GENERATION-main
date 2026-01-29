@@ -1,15 +1,15 @@
 ## AUTOMATED-REPORT-GENERATION
-Candidate Name: Saee Santosh Nikam
+Candidate Name: Vaibhav Mahesh Haval
 
 Selected For: Python Programming
 
 Organization: Codtech IT Solutions Private Limited
 
-Duration: 6 Weeks
+Duration: 4 Weeks
 
-Internship Period: 07 January 2026 - 18 February 2026
+Internship Period: 07 January 2026 - 4 February 2026
 
-Intern ID: CTIS1452
+Intern ID: CTIS 1467
 
 ## 📊 Student Performance Report Generator (Python)
 
